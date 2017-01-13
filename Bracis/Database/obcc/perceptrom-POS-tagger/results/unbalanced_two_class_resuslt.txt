@@ -1,0 +1,8 @@
+('tokensTwitter:::::::::', 29170)
+('tokensTwitterPOS::::::', 10133)
+('emptyTweetsAfterPOS:::::::::', 16)
+('emptyTokensAfterPOS:::::::::', 0)
+('emptyTags', 0)
+('nullTags', 0)
+('all terms ::::::::::::', 4379)
+('all terms afterPOS::::', 2802)

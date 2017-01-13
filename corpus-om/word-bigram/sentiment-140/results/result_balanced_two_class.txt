@@ -1,0 +1,5 @@
+Generating termFrequency
+Generating inverseDocumentFrequency
+Generating matrix
+('all terms ::::::::::::', 3761)
+

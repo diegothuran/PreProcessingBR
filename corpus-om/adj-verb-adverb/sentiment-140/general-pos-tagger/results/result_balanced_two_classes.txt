@@ -1,0 +1,6 @@
+('tokensTweet:::::::::', 5036)
+('tokensTweetPOS::::::', 1493)
+('emptyTweetPOS:::::::::', 5)
+('emptyTokensPOS:::::::::', 0)
+('all terms ::::::::::::', 1497)
+('all terms afterPOS::::', 606)

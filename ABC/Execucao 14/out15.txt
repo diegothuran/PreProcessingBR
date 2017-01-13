@@ -1,0 +1,13 @@
+Classification report for classifier CLUDIPSO:
+             precision    recall  f1-score   support
+
+          0       0.54      0.53      0.53       182
+          1       0.53      0.54      0.53       177
+
+avg / total       0.54      0.53      0.53       359
+
+
+Confusion matrix:
+[[96 86]
+ [81 96]]
+Silhouette Coefficient: 0.004

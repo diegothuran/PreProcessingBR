@@ -1,0 +1,15 @@
+Silhouette Coefficient: -0.235
+Classification report for classifier KMeans:
+             precision    recall  f1-score   support
+
+        0.0       0.10      0.86      0.18       166
+        1.0       0.78      0.14      0.24      1299
+        2.0       0.13      0.08      0.10       553
+
+avg / total       0.55      0.19      0.20      2018
+
+
+Confusion matrix:
+[[142  20   4]
+ [814 185 300]
+ [473  33  47]]
